@@ -1,4 +1,5 @@
 # Alexander Khvostyuk
+![Фотография] (https://ibb.co/fN2j4wg)
 
 ## Contacts
 * E-mail: alexander.khvostyuk@yahoo.com
