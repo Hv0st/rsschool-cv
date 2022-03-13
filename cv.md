@@ -6,6 +6,7 @@
 * **Telegram:** https://t.me/a_khvostyuk
 * **GitHub:** https://github.com/Hv0st
 * **Linkedin:** https://www.linkedin.com/in/hvostjuk
+* **Discord** Alexander Khvostyuk (@Hv0st)
 
 
 ## Skills
