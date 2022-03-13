@@ -15,7 +15,7 @@
 * **Git**
 
 ## Education
-* EPAM "Computer Science Basics"
-* IT-INCUBATOR "Website layout"
-* Udemy: Git: "A complete course"
+* **EPAM:** *Computer Science Basics*
+* **IT-INCUBATOR:** *Website layout*
+* **Udemy:** *Git: A complete course*
 
