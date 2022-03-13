@@ -8,5 +8,14 @@
 * **Linkedin:** https://www.linkedin.com/in/hvostjuk
 
 
-## About
+## Skills
+* **HTML**
+* **CSS**
+* **JavaScript**
+* **Git**
+
+## Education
+* EPAM "Computer Science Basics"
+* IT-INCUBATOR "Website layout"
+* Udemy: Git: "A complete course"
 
